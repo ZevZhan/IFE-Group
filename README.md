@@ -8,8 +8,8 @@ Joy原意为“开心，快乐”。因为兴趣，因为缘分，我们四人�
 * [Robert](http://mouapp.com/)　北京交通大学 University of Florida
 * [Wenger](https://github.com/ZevZhan)　重庆师范大学
 * [DiJun](https://github.com/satradj)　吉首大学
-* [Eve](https://github.com/Evehaha)     　中北大学　 <br/>
-* [Howie](https://github.com/Howiezhang226)
+* [Eve](https://github.com/Evehaha)     　中北大学　 
+* [Howie](https://github.com/Howiezhang226)<br/>
 　Robert和Howiex现在在海外留学，Robert精通angular.js,并且户有自己的技术博客。其他三人是来自不同高校大学生，Wenger和Eve具备JS基础并且正在进阶，DiJun擅长后端，小组都希望通过在IFE的学习，认识更多前端爱好者，对前端知识掌握更全面更透彻，更上一层楼！
 
 ##口号
